@@ -6,6 +6,8 @@ nav {
 #Pet1 {
   margin-right: 70%;
   font-size: 700;
+  direction: ltr;
+  align-content: flex-end;
 }
 
 #Pet1 h2{
